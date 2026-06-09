@@ -16,14 +16,17 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan="3"><b>Backend Development</b></td>
-      <td>• ASP.NET Core Web API</td>
+      <td rowspan="3"><b>Backend</b></td>
+      <td>• Clean Architecture</td>
     </tr>
     <tr>
       <td>• ASP.NET Core MVC</td>
     </tr>
     <tr>
-      <td>• Entity Framework Core</td>
+      <td>• ASP.NET Core Web API</td>
+    </tr>
+    <tr>
+      <td>• ADO.NET</td>
     </tr>
     <tr>
       <td><b>Architecture & Principles</b></td>
