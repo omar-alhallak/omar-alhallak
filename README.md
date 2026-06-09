@@ -20,7 +20,7 @@
       <td>• Clean Architecture</td>
     </tr>
     <tr>
-      <td>• ASP.NET Core</td>
+      <td>• ASP.NET Core Web API</td>
     </tr>
     <tr>
       <td>• ASP.NET Core MVC</td>
