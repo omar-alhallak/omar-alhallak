@@ -42,5 +42,18 @@
     <tr>
       <td>• GitHub</td>
     </tr>
+    <tr>
+      <td rowspan="4" style="white-space: nowrap; vertical-align: middle;"><b>Architecture & Design</b></td>
+      <td>• DDD (Domain-Driven Design)</td>
+    </tr>
+    <tr>
+      <td>• CQRS</td>
+    </tr>
+    <tr>
+      <td>• SOLID Principles</td>
+    </tr>
+    <tr>
+      <td>• Clean Code</td>
+    </tr>
   </tbody>
 </table>
