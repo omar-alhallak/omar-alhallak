@@ -58,5 +58,5 @@
 ## 📫 Connect with me:
 
 * 📧 **Email:** [omaralhallak0998976714@gmail.com](mailto:omaralhallak0998976714@gmail.com)
-* 📞  **WhatsApp:* [+963 998 976 714  ](https://wa.me/963998976714)
+* 📞 **WhatsApp:** [+963 998 976 714  ](https://wa.me/963998976714)
 
