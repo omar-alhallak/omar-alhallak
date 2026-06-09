@@ -10,13 +10,13 @@
 <table>
   <thead>
     <tr>
-      <th style="white-space: nowrap;">Category</th>
-      <th width="100%">Technologies & Methodologies</th>
+      <th>Category</th>
+      <th>Technologies & Methodologies</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td rowspan="4" style="white-space: nowrap; vertical-align: middle;"><b>Backend Development</b></td>
+      <td rowspan="4" style="vertical-align: middle;"><nobr><b>Backend Development</b></nobr></td>
       <td>• Clean Architecture</td>
     </tr>
     <tr>
@@ -29,18 +29,18 @@
       <td>• ADO.NET</td>
     </tr>
     <tr>
-      <td rowspan="2" style="white-space: nowrap; vertical-align: middle;"><b>Databases</b></td>
+      <td rowspan="2" style="vertical-align: middle;"><nobr><b>Databases</b></nobr></td>
       <td>• SQL Server</td>
     </tr>
     <tr>
       <td>• Oracle</td>
     </tr>
     <tr>
-      <td rowspan="2" style="white-space: nowrap; vertical-align: middle;"><b>Tools & Platforms</b></td>
+      <td style="vertical-align: middle;"><nobr><b>Tools & Platforms</b></nobr></td>
       <td>• Git & GitHub</td>
     </tr>
     <tr>
-      <td rowspan="4" style="white-space: nowrap; vertical-align: middle;"><b>Architecture & Design</b></td>
+      <td rowspan="4" style="vertical-align: middle;"><nobr><b>Architecture & Design</b></nobr></td>
       <td>• DDD (Domain-Driven Design)</td>
     </tr>
     <tr>
