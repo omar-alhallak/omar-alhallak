@@ -5,12 +5,14 @@
 
 ---
 
-## 🛠️ Technical Skills & Ecosystem
+## 🛠️ Technical Skills
 
 | Category | Technologies & Methodologies |
 | :--- | :--- |
-| *Backend Frameworks* | ASP.NET Core (Web API, Minimal APIs), .NET 8/9 |
-| *Architecture & Principles* | Clean Architecture, DDD (Domain-Driven Design), SOLID, CQRS |
-| *Databases & Caching* | SQL Server, PostgreSQL, Redis (Caching & Distributed Locks) |
+| *Backend Development** | • ASP.NET Core Web API |
+| | • ASP.NET Core MVC |
+| | • Entity Framework Core |
+| *Architecture & Principles* | Clean Architecture, DDD, SOLID, CQRS |
+| *Databases & Caching* | SQL Server, Oracle |
 | *DevOps & Containers* | Docker, Containerization, CI/CD Pipelines |
-| *Version Control & Tools*| Git, GitHub, Postman |
+| *Version Control & Tools*| Git, GitHub |
