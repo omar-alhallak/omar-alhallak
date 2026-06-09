@@ -1,8 +1,7 @@
 ## Hi there, I'm Omar Alhallak 👋
----
-🛠️ Tech Stack
 
-i
+---
+### 🛠️ Tech Stack 
 ---
 ** Backend **
 ASP.NET Core MVC
