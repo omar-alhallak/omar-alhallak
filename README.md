@@ -57,4 +57,4 @@
 
 ## 📫 Connect with me:
 
-* 📧 **Email:** [omaralhallak0998976714@gmail.com](omaralhallak0998976714@gmail.com)
+* 📧 **Email:** [omaralhallak0998976714@gmail.com](mailto:omaralhallak0998976714@gmail.com)
