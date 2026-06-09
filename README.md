@@ -10,13 +10,13 @@
 <table>
   <thead>
     <tr>
-      <th width=nowrap>Category</th>
+      <th style="white-space: nowrap;">Category</th>
       <th width="100%">Technologies & Methodologies</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td rowspan="4"><b>Backend Development</b></td>
+      <td rowspan="4" style="white-space: nowrap; vertical-align: middle;"><b>Backend Development</b></td>
       <td>• Clean Architecture</td>
     </tr>
     <tr>
@@ -29,31 +29,18 @@
       <td>• ADO.NET</td>
     </tr>
     <tr>
-      <td rowspan="2"><b>Databases</b></td>
+      <td rowspan="2" style="white-space: nowrap; vertical-align: middle;"><b>Databases</b></td>
       <td>• SQL Server</td>
     </tr>
     <tr>
       <td>• Oracle</td>
     </tr>
     <tr>
-      <td rowspan="2"><b>Tools & Platforms</b></td>
+      <td rowspan="2" style="white-space: nowrap; vertical-align: middle;"><b>Tools & Platforms</b></td>
       <td>• Git</td>
     </tr>
     <tr>
       <td>• GitHub</td>
-    </tr>
-    <tr>
-      <td rowspan="4"><b>Architecture & Design</b></td>
-      <td>• DDD</td>
-    </tr>
-    <tr>
-      <td>• CQRS</td>
-    </tr>
-    <tr>
-      <td>• SOLID Principles</td>
-    </tr>
-    <tr>
-      <td>• Clean Code</td>
     </tr>
   </tbody>
 </table>
