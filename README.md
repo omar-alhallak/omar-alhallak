@@ -24,9 +24,10 @@
     </tr>
     <tr>
       <td>• ASP.NET Core Web API</td>
+            <td>• ADO.NET</td>
     </tr>
     <tr>
-      <td>• ADO.NET</td>
+
     </tr>
     <tr>
       <td><b>Architecture & Principles</b></td>
