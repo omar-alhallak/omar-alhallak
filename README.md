@@ -1,16 +1,25 @@
-## Hi there 👋
-
-<!--
-**omar-alhallak/omar-alhallak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there, I'm Omar Alhallak 👋
+---
+# 🛠️ Tech Stack
+---
+** Backend **
+ASP.NET Core MVC
+ASP.NET Core Web API
+Entity Framework Core
+REST APIs
+LINQ
+ADO.NET
+Frontend & UI
+Blazor
+HTML / CSS
+Bootstrap
+Radzen
+Mobile Development
+.NET MAUI
+Databases
+SQL Server
+Oracle (PL/SQL)
+Tools & Platforms
+Git & GitHub
+Docker
+Hangfire
