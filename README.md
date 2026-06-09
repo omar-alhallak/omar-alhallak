@@ -41,7 +41,7 @@
     </tr>
     <tr>
       <td rowspan="4" style="vertical-align: middle; text-align: center;"><nobr><b>Architecture & Design</b></nobr></td>
-      <td>• DDD (Domain-Driven Design)</td>
+      <td>• DDD</td>
     </tr>
     <tr>
       <td>• CQRS</td>
