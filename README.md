@@ -37,10 +37,7 @@
     </tr>
     <tr>
       <td rowspan="2" style="white-space: nowrap; vertical-align: middle;"><b>Tools & Platforms</b></td>
-      <td>• Git</td>
-    </tr>
-    <tr>
-      <td>• GitHub</td>
+      <td>• Git & GitHub</td>
     </tr>
     <tr>
       <td rowspan="4" style="white-space: nowrap; vertical-align: middle;"><b>Architecture & Design</b></td>
