@@ -54,3 +54,8 @@
     </tr>
   </tbody>
 </table>
+
+## 📫 Connect with me:
+
+* 📧 **Email:** [omaralhallak0998976714@gmail.com](mailto:your.email@example.com)
+*
