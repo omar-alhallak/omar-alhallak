@@ -1,8 +1,9 @@
 ## Hi there, I'm Omar Alhallak 👋
-bzdf
 ---
 🛠️ Tech Stack
 
+i
+---
 ** Backend **
 ASP.NET Core MVC
 ASP.NET Core Web API
