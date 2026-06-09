@@ -10,32 +10,50 @@
 <table>
   <thead>
     <tr>
-      <th>Category</th>
-      <th>Technologies & Methodologies</th>
+      <th width="30%">Category</th>
+      <th width="70%">Technologies & Methodologies</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td rowspan="3"><b>Backend</b></td>
+      <td rowspan="4"><b>Backend Development</b></td>
       <td>• Clean Architecture</td>
+    </tr>
+    <tr>
+      <td>• ASP.NET Core</td>
     </tr>
     <tr>
       <td>• ASP.NET Core MVC</td>
     </tr>
     <tr>
-      <td>• ASP.NET Core Web API</td>
-            <td>• ADO.NET</td>
+      <td>• ADO.NET</td>
     </tr>
     <tr>
-
+      <td rowspan="2"><b>Databases</b></td>
+      <td>• SQL Server</td>
     </tr>
     <tr>
-      <td><b>Architecture & Principles</b></td>
-      <td>Clean Architecture, DDD, SOLID, CQRS</td>
+      <td>• Oracle</td>
     </tr>
     <tr>
-      <td><b>Databases & Caching</b></td>
-      <td>SQL Server, PostgreSQL, Redis</td>
+      <td rowspan="2"><b>Tools & Platforms</b></td>
+      <td>• Git</td>
+    </tr>
+    <tr>
+      <td>• GitHub</td>
+    </tr>
+    <tr>
+      <td rowspan="4"><b>Architecture & Design</b></td>
+      <td>• DDD (Domain-Driven Design)</td>
+    </tr>
+    <tr>
+      <td>• CQRS</td>
+    </tr>
+    <tr>
+      <td>• SOLID Principles</td>
+    </tr>
+    <tr>
+      <td>• Clean Code</td>
     </tr>
   </tbody>
 </table>
