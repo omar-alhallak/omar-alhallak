@@ -1,7 +1,7 @@
 # Hi there, I'm Omar Alhallak 👋
-### 💻 Backend Developer focused on ASP.NET Core & Enterprise Architecture
+### 💻 Backend Developer focused on ASP.NET Core & Clean Architecture.
 
-I am a backend engineer specializing in building scalable, high-performance distributed systems. My development philosophy centers around writing clean, maintainable, and testable code, leveraging modern architectural patterns to solve complex business logic.
+​I am an engineer specializing in building scalable, high-performance distributed systems. I focus on writing clean, maintainable, and testable code, leveraging modern architectural patterns to solve complex business logic.
 
 ---
 
