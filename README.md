@@ -9,9 +9,9 @@
 
 | Category | Technologies & Methodologies |
 | :--- | :--- |
-| *Backend Development** | • ASP.NET Core Web API |
-| | • ASP.NET Core MVC |
-| | • Entity Framework Core |
+| * Backend * | • ASP.NET Core Web API |
+| ^ | • ASP.NET Core MVC |
+| ^ | • Entity Framework Core |
 | *Architecture & Principles* | Clean Architecture, DDD, SOLID, CQRS |
 | *Databases & Caching* | SQL Server, Oracle |
 | *DevOps & Containers* | Docker, Containerization, CI/CD Pipelines |
