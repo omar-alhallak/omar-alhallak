@@ -10,8 +10,8 @@
 <table>
   <thead>
     <tr>
-      <th width="nowrap">Category</th>
-      <th width="70%">Technologies & Methodologies</th>
+      <th width=nowrap>Category</th>
+      <th width="100%">Technologies & Methodologies</th>
     </tr>
   </thead>
   <tbody>
