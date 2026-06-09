@@ -16,7 +16,7 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan="4" style="vertical-align: middle;"><nobr><b>Backend Development</b></nobr></td>
+      <td rowspan="4" style="vertical-align: middle; text-alighn: center;"><nobr><b>Backend Development</b></nobr></td>
       <td>• Clean Architecture</td>
     </tr>
     <tr>
@@ -29,18 +29,18 @@
       <td>• ADO.NET</td>
     </tr>
     <tr>
-      <td rowspan="2" style="vertical-align: middle;"><nobr><b>Databases</b></nobr></td>
+      <td rowspan="2" style="vertical-align: middle; text-alighn: center;"><nobr><b>Databases</b></nobr></td>
       <td>• SQL Server</td>
     </tr>
     <tr>
       <td>• Oracle</td>
     </tr>
     <tr>
-      <td style="vertical-align: middle;"><nobr><b>Tools & Platforms</b></nobr></td>
+      <td style="vertical-align: middle; text-alighn: center;"><nobr><b>Tools & Platforms</b></nobr></td>
       <td>• Git & GitHub</td>
     </tr>
     <tr>
-      <td rowspan="4" style="vertical-align: middle;"><nobr><b>Architecture & Design</b></nobr></td>
+      <td rowspan="4" style="vertical-align: middle; text-alighn: center;"><nobr><b>Architecture & Design</b></nobr></td>
       <td>• DDD (Domain-Driven Design)</td>
     </tr>
     <tr>
