@@ -10,7 +10,7 @@
 <table>
   <thead>
     <tr>
-      <th width="30%">Category</th>
+      <th width="nowrap">Category</th>
       <th width="70%">Technologies & Methodologies</th>
     </tr>
   </thead>
